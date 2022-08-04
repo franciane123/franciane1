@@ -1,8 +1,8 @@
-# meu nome e franciane da silva
-# estou estudando e aprendendo **javascript**
-# sou estudante do ensino medio
-# futuramente farei faculdade de tecnologia
-#  estou tambem aprendendo a criar jogos 
+- 👍 #Ola meu nome é franciane da Silva 
+- 👀 atualmente me interesso por técnologia 
+- 🌱 estou estudando e aprendendo a programar **javascript** 
+- 📑 futuramente farei faculdade de tecnologia ou medicina 
+- 🏨 sou estudante do ensino médio 
 
 
 
