@@ -1,5 +1,9 @@
 # meu nome e franciane da silva
-estou aprendendo**javascript**
+estou estudando e aprendendo**javascript**
 sou estudante do ensino medio
-atualmente não trabalho 
+futuramente farei faculdade de tecnologia
+estou cursando ingles e tambem aprendendo a criar jogos 
+
+
+
 
