@@ -1,5 +1,5 @@
 ## franciane
-- ola meu nome é franciane da Silva 
+- 😀 ola meu nome é franciane da Silva 
 - 👀 atualmente me interesso por técnologia 
 - 🌱 estou estudando e aprendendo a programar javascript,scratch
 - 📑 futuramente farei faculdade de tecnologia ou medicina 
